@@ -11,7 +11,7 @@
 <div align = "center">
   <a href="https://lu1zcarvalho">
     <img width = "400px" src="https://github-readme-stats.vercel.app/api?username=lu1zcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width = "440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu1zcarvalho&layout=compact&langs_count=16&theme=dark"/>
+    <img width = "400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu1zcarvalho&layout=compact&langs_count=16&theme=dark"/>
     </div>
   
   <br> 
